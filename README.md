@@ -20,3 +20,8 @@ results in a slightly lesser number of colors for some
 graphs. The exact algorithm employs a parametrized
 approach to identify if the adjacent vertices of the
 graph can be uniquely colored with the given value.
+
+Problem definition: Given a graph G=(V,E), chromatic
+number or the no. of colors (ci ) required to
+color the graph is k such that ∀ (u,v) ∈ E : cu ̸= cv
+where i ≤ k.
